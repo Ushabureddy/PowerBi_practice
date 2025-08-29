@@ -122,5 +122,5 @@ All solutions are combined in a **single Power BI workbook (`assignment.pbix`)**
 
 ## 🏆 Author
 👩‍💻 **Ushasri Lakshmi Bureddy**  
-📧 [your-email@example.com]  
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/usha-bureddy-748a07300/)) | [GitHub](https://github.com/Ushabureddy)
+📧 [Ushabureddy@gmail.com]  
+🔗 [LinkedIn](linkedin.com/in/usha-bureddy-748a07300) | [GitHub](https://github.com/Ushabureddy)
